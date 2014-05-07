@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HTMLÎÒ°ïÄú Github ²©¿Í!
-description: ÍøÂÞ¾«Æ·Èí¼þ¡¢ÍøÕ¾Ô´Âë¡¢JQUERY¡¢ExtJs¡¢PSD¡¢Ò³ÃæÌØÐ§£¬ÍøÂÞÒ»ÇÐÃâ·Ñweb×ÊÔ´·ÖÏí¸ø´ó¼Ò£¡
+title: HTMLæˆ‘å¸®æ‚¨ Github åšå®¢!
+description: ç½‘ç½—ç²¾å“è½¯ä»¶ã€ç½‘ç«™æºç ã€JQUERYã€ExtJsã€PSDã€é¡µé¢ç‰¹æ•ˆï¼Œç½‘ç½—ä¸€åˆ‡å…è´¹webèµ„æºåˆ†äº«ç»™å¤§å®¶ï¼
 ---
 {% include JB/setup %}
 
